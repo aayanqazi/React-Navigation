@@ -1,0 +1,12 @@
+
+
+ul li.focused{
+    color:#fff;
+    background-color:#41c7c2;
+}
+.jumbotron
+{
+    background-image: url('01.jpg');
+    padding-top:148px;
+}
+
